@@ -1,0 +1,68 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-image: linear-gradient(to right, #FF8500, #FFB400, #FF0000);
+    font-size: 35px;
+    padding: 15px;
+}
+
+
+header a{
+    color: #FFEBCD;
+    text-decoration: none;
+}
+
+.name{
+   color: #DC143C;
+   text-shadow: 5px 5px 5px #FFFAFA,
+                5px 5px 5px #CD5C5C;
+    left: 230px;
+    position: relative;
+}
+
+
+footer{
+    background-image: linear-gradient(to right, #FF8500, #FFB400, #FF0000);
+    font-size: 35px;
+    padding: 15px;
+}
+
+.top{
+    text-decoration: none;
+    color: #FFEBCD;
+    background-image: linear-gradient(to right, #FF8500, #FFB400, #FF0000);
+    width: 100px;
+    position: relative;
+    left: 320px;
+    font-size: 25px;
+    padding: 8px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+
+.pict{
+    margin-top: 45px;
+}
+
+
+.mch{
+    margin-left: 80px;
+    margin-right: 40px;
+}
+
+.text-big{
+    font-size: 20px;
+    left: 90px;
+    position: relative;
+}
+
+.ssilka a{
+    text-decoration: none;
+    color: #DC143C;
+    font-size: 22px;
+    border-bottom: 2px dashed #DC143C;
+    position: relative;
+}
